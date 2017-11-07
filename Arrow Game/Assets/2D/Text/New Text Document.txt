@@ -1,0 +1,3 @@
+Welcome to the tutorial level. Press mouse button 1 to shoot an arrow.
+Good. Now move forward, and shoot the wall. You can use arrows on the wall and use them as platforms.
+Now Collect The Orb and be ready to start Level 1
